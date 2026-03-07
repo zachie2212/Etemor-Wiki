@@ -4,9 +4,11 @@ Kieran
 ## Character name
 **Untitled**
 ## Character Description
-Species: Penguin (Fey/Birdfolk)
-Class: Rogue
-Subclass: ?
+
+| Species                | Class | Subclass |
+| ---------------------- | ----- | -------- |
+| Penguin (Fey/Birdfolk) | Rogue |          |
+
 ## Connections
 - 
 ## Art / Inspiration

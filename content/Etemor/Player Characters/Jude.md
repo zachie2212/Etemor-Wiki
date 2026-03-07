@@ -1,18 +1,16 @@
-**Fret Tango** is a [[Etemor/Player Characters/index|Player Character]].
+**Jude** is a [[Etemor/Player Characters/index|Player Character]].
 ## Player name
-Stefan
-
+Jude
 ## Character name
-**Fret Tango**
-
+**Jude**
 ## Character Description
 
 | Species | Class   | Subclass |
 | ------- | ------- | -------- |
-| Human   | Warlock |          |
+| Human   | Paladin |          |
+
 ## Connections
 - 
-
 ## Art / Inspiration
 
 

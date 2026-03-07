@@ -12,9 +12,10 @@ Ross
 **Dionysus Naxo**
 
 ## Character Description
-Species: Aasimar
-Class: Fighter
-Subclass: ?
+
+| Species | Class   | Subclass |
+| ------- | ------- | -------- |
+| Aasimar | Fighter |          |
 
 ## Connections
 - 

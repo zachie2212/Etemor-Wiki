@@ -6,9 +6,10 @@ Sam
 **Silas Silvertongue**
 
 ## Character Description
-Species: Tiefling
-Class: Bard
-Subclass: ?
+
+| Species  | Class | Subclass |
+| -------- | ----- | -------- |
+| Tiefling | Bard  |          |
 
 ## Connections
 - 

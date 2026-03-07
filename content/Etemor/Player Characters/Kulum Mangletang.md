@@ -6,12 +6,13 @@ Gus
 **Kulum Mangletang**
 
 ## Character Description
-Species: Goliath (Cloud Giant)
-Class: Warlock
-Subclass: ?
+
+| Species               | Class   | Subclass |
+| --------------------- | ------- | -------- |
+| Goliath (Cloud Giant) | Warlock |          |
 
 ## Connections
-- 
+- From the mountain city [[Horst Konigreich]].
 
 ## Art / Inspiration
 

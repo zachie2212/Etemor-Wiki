@@ -8,9 +8,10 @@ Seb
 ## Character name
 **Four**
 ## Character Description
-Species: Tiefling (Infernal)
-Class: Sorcerer
-Subclass: ?
+
+| Species             | Class    | Subclass |
+| ------------------- | -------- | -------- |
+| Tiefling (Infernal) | Sorcerer |          |
 ## Connections
 - 
 ## Art / Inspiration

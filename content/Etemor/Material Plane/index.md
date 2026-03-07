@@ -1,7 +1,8 @@
 ---
 draft: false
 aliases:
-title:
+  - Material Plane
+title: Material Plane
 ---
 Created On: 2026-03-07
 ## Overview
