@@ -1,1 +1,3 @@
 # Etemor-Wiki
+
+If you are one of my players... please look away...
