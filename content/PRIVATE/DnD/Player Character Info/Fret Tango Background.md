@@ -4,7 +4,7 @@
 
 ### Life Changing Event
 
-### [[Non Player Character|NPCs]]
+### [[Etemor/NPCs/index|NPCs]]
 
 ### Locations
 

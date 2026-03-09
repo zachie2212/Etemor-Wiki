@@ -4,7 +4,7 @@
 Born into a very rich family, he has never had to work very hard. 
 ### Life Changing Event
 He found an artifact (lamp, weapon), and unknowingly made a pact with his Warlock Patron.
-### [[Non Player Character|NPCs]]
+### [[Etemor/NPCs/index|NPCs]]
 Warlock Patron: ?? Fey? Genie? Hexblade?
 
 ### Location

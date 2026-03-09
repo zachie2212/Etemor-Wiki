@@ -1,3 +1,7 @@
+---
+aliases:
+  - Silas
+---
 **Silas Silvertongue** is a [[Etemor/Player Characters/index|Player Character]].
 ## Player name
 Sam
@@ -12,6 +16,6 @@ Sam
 | Tiefling | Bard  |          |
 
 ## Connections
-- 
+- [[Silas Silvertongue Backstory]]
 
 ## Art / Inspiration
