@@ -16,6 +16,6 @@ Sam
 | Tiefling | Bard  |          |
 
 ## Connections
-- [[Silas Silvertongue Backstory]]
+- [[Etemor/Player Characters/Backstory Details/Silas Silvertongue Backstory|Silas Silvertongue Backstory]]
 
 ## Art / Inspiration

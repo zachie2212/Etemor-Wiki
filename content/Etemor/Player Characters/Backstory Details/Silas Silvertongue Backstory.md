@@ -7,7 +7,7 @@ Created On: 2026-03-09
 ## Overview
 Written by Sam.
 
-[[Silas Silvertongue|Silas]] was born in the poorest quarter of a mining village called [[Brittlefront]]. The mine was the lifeblood of the settlement, and like most boys born there, his future was decided before he could speak. His father worked long days underground and arranged for Silas to join him when he came of age. His mother never saw that day—she died giving birth to him, a loss that hung quietly over their small hovel of a home for years.
+[[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]] was born in the poorest quarter of a mining village called [[Etemor/Material Plane/Alideus/Curan Kingdom/Brittlefront|Brittlefront]]. The mine was the lifeblood of the settlement, and like most boys born there, his future was decided before he could speak. His father worked long days underground and arranged for Silas to join him when he came of age. His mother never saw that day—she died giving birth to him, a loss that hung quietly over their small hovel of a home for years.
 
 The mine, however, was never Silas’s calling. He lacked the patience for hard labour and the discipline for the long shifts beneath the earth. Instead, he discovered something else he was far better at: talking. Even as a boy, he had a way of convincing people of things—especially authority figures. His bosses often believed him when he claimed his father knew he had missed lessons or shifts, even when that was far from the truth. It was a talent that would grow sharper with time.
 
@@ -49,7 +49,7 @@ Silas agreed—but in his own way.
 
 He fed the authorities just enough information to keep them satisfied while continuing to protect the people he believed could change. In his mind, he was balancing the scales of justice better than the law ever could.
 
-During these years, Silas also built a family life. He married, and together they had a son named **[[Cassian Silvertongue|Cassian]]**.
+During these years, Silas also built a family life. He married, and together they had a son named **[[Etemor/NPCs/Cassian Silvertongue|Cassian]]**.
 
 For a time, things seemed stable.
 
