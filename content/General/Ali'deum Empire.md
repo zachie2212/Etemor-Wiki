@@ -5,7 +5,7 @@ title:
 ---
 Created On: 2026-03-09
 ## Overview
-The Pre-[[General/Cataclysm|Cataclysm]] Empire which dominated [[Etemor/Material Plane/Alideus/index|Alideus]]. **Ali'deum** was a powerful [[General/Magocracy|Magocracy]] which valued learning, industry, and pushing the limits of moral power. 
+The Pre-[[General/Cataclysm|Cataclysm]] Empire which dominated [[Etemor/Material Plane/Alideus/index|Alideus]]. **Ali'deum** was a powerful [[General/Magocracy|magocracy]] which valued learning, industry, and pushing the limits of moral power. 
 
 Their ambitions led to **Ali'deum** being the most magically advanced civilisation ever seen on the [[Etemor/index|Etemor]] [[Etemor/Material Plane/index|Material Plane]], with many of their cities flying through the air and travelling around the continent. 
 However, their ambition led to hubris, which was ultimately their downfall.
