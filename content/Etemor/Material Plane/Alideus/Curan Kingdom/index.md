@@ -12,3 +12,4 @@ Currently the largest human civilisation on the [[Etemor/Material Plane/index|Ma
 The head of state and monarch is [[Etemor/NPCs/King Richard William Von Destrian Imbertus Curan II|King Richard II]], however most of the day-to-day of the Kingdom's government is managed by the [[Isongau Council]]
 
 ## Law
+All citizens of **The Curan Kingdom** must adhere to the [[Curan Code Legal]], which is enforced by the [[Etemor/Organisations/City Guard|City Guard]].

@@ -16,10 +16,10 @@ Due to its size and population, the city infrastructure is quite advanced, inclu
 Once a powerful city in the [[General/Ali'deum Empire|Ali'deum Empire]], **Isongau** is filled with remnants of the fallen civilisation. Most notably, the gigantic, 100 meter stone statues found throughout the city, which are believed to have once been magically animated constructs created to defend the city. However now they are just overgrown landmarks.
 
 ## Details
-| Population | Occupants                                                         | Age         | Environment                                                                                                                                         | Defenses                                                                  |
-| ---------- | ----------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 500,000+   | Mostly Humans, but a fairly diverse spread of many other species. | ~4000 years | Located on a large limestone island, surrounded by the mainland and with the only access to the sea being through the dangerous [[Maw of Quietus]]. | [[City Guard]], [[King's Guard]], [[Maw of Quietus]], [[Redmont Citadel]] |
+| Population | Occupants                                                         | Age         | Environment                                                                                                                                         | Defenses                                                                                      |
+| ---------- | ----------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 500,000+   | Mostly Humans, but a fairly diverse spread of many other species. | ~4000 years | Located on a large limestone island, surrounded by the mainland and with the only access to the sea being through the dangerous [[Maw of Quietus]]. | [[Etemor/Organisations/City Guard\|City Guard]], [[King's Guard]], [[Maw of Quietus]], [[Redmont Citadel]] |
 
 ## Organisations
-- [[City Guard]]
+- [[Etemor/Organisations/City Guard|City Guard]]
 - [[King's Guard]]

@@ -9,7 +9,8 @@ The fall of his father Kingdom forced him to flee but fuelled his vengeance for 
 ### Locations
 #todo: build the kingdom
 ### Secrets
-Deep down Edward wants to live a more simple life away from wealth and greed
+- The coup of his home kingdom was orchestrated by the [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]] from the shadows 
+	- #todo why did they do this?
 
 ## Character Traits
 ### Hates
@@ -17,5 +18,5 @@ Deep down Edward wants to live a more simple life away from wealth and greed
 ### Fears
 - The unknown
 ### Wants
-- A quiet and simple life
+- Deep down Edward wants to live a more simple life away from wealth and greed
 - To learn who betrayed his father and brought down his kingdom
