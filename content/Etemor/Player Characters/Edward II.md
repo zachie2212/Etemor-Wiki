@@ -12,5 +12,6 @@ Jude
 | Human   | Paladin |          |
 ## Connections
 - [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]]. Use to go to his tavern every now and then.
+- From the Kingdom of [[Material Plane/Kivalon]]
 
 ## Art / Inspiration

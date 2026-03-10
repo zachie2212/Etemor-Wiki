@@ -1,3 +1,6 @@
+---
+draft: true
+---
 **Untitled** is a [[Etemor/Player Characters/index|Player Character]].
 ## Player name
 Kieran
@@ -7,7 +10,7 @@ Kieran
 
 | Species                | Class | Subclass |
 | ---------------------- | ----- | -------- |
-| Penguin (Fey/Birdfolk) | Rogue |          |
+| Penguin (Fey Birdfolk) | Rogue |          |
 
 ## Connections
 - 

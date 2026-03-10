@@ -5,7 +5,7 @@ title:
 ---
 Created On: 2026-03-09
 ## Overview
-The capital [[city]] of the [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]]. 
+The capital [[General/Cities|city]] of the [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]]. 
 
 ## Description
 Home to hundreds of lords, nobles, and powerful merchants, as well as the [[Etemor/NPCs/King Richard William Von Destrian Imbertus Curan II|King]] himself. This city isn't very big with trade, due to its inconvenient location. The farmland outside of the city mainly exists to provide for the city and the attached military keep. Although, there is much trade with merchants for food from other lands who are willing to make the difficult journey. 
