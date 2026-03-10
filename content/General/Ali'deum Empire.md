@@ -10,4 +10,4 @@ The Pre-[[General/Cataclysm|Cataclysm]] Empire which dominated [[Etemor/Material
 Their ambitions led to **Ali'deum** being the most magically advanced civilisation ever seen on the [[Etemor/index|Etemor]] [[Etemor/Material Plane/index|Material Plane]], with many of their cities flying through the air and travelling around the continent. 
 However, their ambition led to hubris, which was ultimately their downfall.
 
-Whether it is iron chains the size of a small mountain in an open field, the overgrown 100 meter tall statues in [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau|Isongau]], or underground dungeons filled with caustic [[magic]], the remnants of the once great nation can be found scattered around the continent.
+Whether it is iron chains the size of a small mountain in an open field, the overgrown 100 meter tall statues in [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau|Isongau]], or underground dungeons filled with caustic [[General/Magic|magic]], the remnants of the once great nation can be found scattered around the continent.
