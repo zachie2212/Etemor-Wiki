@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "zachie2212.github.io/Etemor-Wiki",
     ignorePatterns: ["private", "templates", ".obsidian", "PRIVATE/**"],
     defaultDateType: "modified",
     theme: {
