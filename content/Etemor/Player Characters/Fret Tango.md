@@ -11,7 +11,7 @@ Stefan
 | ------- | ------- | -------- |
 | Human   | Warlock |          |
 ## Connections
-- 
+- [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]] - Patron at [[The Brass Tooth Inn]].
 
 ## Art / Inspiration
 

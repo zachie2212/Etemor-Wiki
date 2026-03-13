@@ -13,4 +13,4 @@ Originally the seat of power of the [[General/Ali'deum Empire|Ali'deum Empire]].
 
 ## [[Nation|Nations]]
 - [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]] - Currently controls most of **Alideus**.
-- [[North Alideus]] - Composed of many individual [[General/Cities|Cities]] States.
+- [[Etemor/Material Plane/Alideus/North Alideus/index|North Alideus]] - Composed of many individual [[General/Cities|Cities]] States.

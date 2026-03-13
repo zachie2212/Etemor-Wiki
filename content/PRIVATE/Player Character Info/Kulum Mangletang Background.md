@@ -8,7 +8,7 @@ He found an artifact (lamp, weapon), and unknowingly made a pact with his Warloc
 Warlock Patron: ?? Fey? Genie? Hexblade?
 
 ### Location
-[[Horst Konigreich]] - Mountain city of the Goliaths.
+[[Etemor/Material Plane/Alideus/North Alideus/Horst Konigreich]] - Mountain city of the Goliaths.
 ### Secrets
 
 
