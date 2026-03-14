@@ -46,6 +46,10 @@ The entire lair is pitch black apart from the Kitchen (1). Filled to the brim wi
 			3. Adeptus: **Magic Missile Spell Scroll**
 			4. Veles: **Periapt of Wound Closure**
 
+## Questions
+- A good Investigation check will reveal that the Kobolds have not lived here long. Where did they come from and why did they move?
+- There are no magic item shops around here. Where did the Kobolds get the magic items? Did they get them from adventurers, or is there a dungeon or monster hoard nearby which they got them from?
+
 ## Stats
 
 ![[Pasted image 20260314125129.png]]
