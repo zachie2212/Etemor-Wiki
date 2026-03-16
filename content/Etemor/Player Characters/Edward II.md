@@ -11,7 +11,7 @@ Jude
 | ------- | ------- | -------- |
 | Human   | Paladin |          |
 ## Connections
-- [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]]. Use to go to his tavern every now and then.
-- From the Kingdom of [[Material Plane/Kivalon]]
+-  Originally from the Kingdom of [[Material Plane/Kivalon|Kivalon]], far to the East of [[Etemor/Material Plane/Alideus/index|Alideus]].
+- [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]]. Used to go to his tavern every now and then.
 
 ## Art / Inspiration

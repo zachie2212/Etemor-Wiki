@@ -12,7 +12,7 @@ Gus
 | Goliath (Cloud Giant) | Warlock |          |
 
 ## Connections
-- From the mountain city [[Etemor/Material Plane/Alideus/North Alideus/Horst Konigreich|Horst Konigreich]].
+- From the mountain city [[Etemor/Material Plane/Alideus/North Alideus/Horst Konigreich|Horst Konigreich]] in [[Etemor/Material Plane/Alideus/North Alideus/index|North Alideus]].
 
 ## Art / Inspiration
 
