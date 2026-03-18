@@ -18,6 +18,6 @@ Ross
 | Aasimar | Fighter |          |
 
 ## Connections
-- Originally from the Kingdom of [[Oriwen]] in [[Mount Celestia]].
+- Originally from the Kingdom of [[Monolithios]] in [[Mount Celestia]].
 
 ## Art / Inspiration

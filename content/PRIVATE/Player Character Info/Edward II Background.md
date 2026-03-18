@@ -11,6 +11,7 @@ The fall of his father Kingdom forced him to flee but fuelled his vengeance for 
 ### Secrets
 - The coup of his home kingdom was orchestrated by the [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]] from the shadows 
 	- #todo why did they do this?
+- He suspects that [[Etemor/Player Characters/Macht|Macht]] is connected to the conspiracy, because he bears the mark some of the people at the coup.
 
 ## Character Traits
 ### Hates
