@@ -15,5 +15,6 @@ Stefan
 - Originally from the Southern desert island [[Sethland]].
 
 ## Art / Inspiration
+This cunt.
 
-
+![[Pasted image 20260318185615.png]]
