@@ -25,3 +25,4 @@ Right at the edge of the [[Callan Grove]], and spanning two sides of the [[Woodw
 - [[Etemor/Organisations/City Guard|City Guard]]
 - [[Etemor/Organisations/Ninconstop|Ninconstop]] - general store
 - [[The Horde and the Jaguar]] - inn
+- [[The Charming Horse Herbalist]] - [[Saerenion Melithrae]] 
