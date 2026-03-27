@@ -9,7 +9,7 @@ Made too many enemies in his home town for manipulating both the authorities and
 ### Location
 
 ### Secrets
-- [[Etemor/NPCs/Cassian Silvertongue|Cassian]] does not live in [[Etemor/Material Plane/Alideus/Curan Kingdom/Brittlefront|Brittlefront]] anymore, as [[The Dust Skulls]] now work for a larger criminal organisation ( #todo what is their name? The Scarlet Spider?). He is being mentored by the leader of this organisation.
+- [[Etemor/NPCs/Cassian Silvertongue|Cassian]] does not live in [[Etemor/Material Plane/Alideus/Curan Kingdom/Brittlefront|Brittlefront]] anymore, as [[The Dust Skulls]] now work for a larger criminal organisation known as [[Etemor/Organisations/The Hand]]. He is being mentored by the leader of this organisation, [[Etemor/NPCs/The Scarlet Spider]].
 
 ## Character Traits
 ### Hates

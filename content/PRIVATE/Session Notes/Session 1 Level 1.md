@@ -1,6 +1,6 @@
 Created On: 2026-03-07
 ## Preparation Notes
-- Starting in [[General/Calmarnock|Calmarnock]]. 
+- Starting in [[Etemor/Material Plane/Alideus/Curan Kingdom/Calmarnock|Calmarnock]]. 
 - [[Etemor/NPCs/Korfer Greatmane|Korfer Greatmane]] has contracted the party to find out who has been stealing from his store, [[Etemor/Organisations/Ninconstop|Ninconstop]].
 	- The kobolds sneak in at night, break in through a small hole in the back of the shop, and steal food and anything shiny.
 	- Korfer is missing 100gp, 50gp of jewellery,  80gp gems, and 3 ale barrels.
@@ -13,14 +13,14 @@ Created On: 2026-03-07
 
 ## Post Mortem
 ### Events
-- Gunther stole 19gp from [[General/Denise|Denise]]'s florist
+- Gunther stole 19gp from [[Etemor/NPCs/Denise Othwise|Denise Othwise]]'s florist
 - [[The Charming Horse Herbalist]] - 55gp healing potions
 - The party told Korfer that Denise is in love with him
 - They tracked down the Kobolds to their lair, and are about to start a big fight
 ### NPCs
-- Stephany is one of [[General/Denise|Denise]]'s friends, who was with her the night of the [[Etemor/Organisations/Ninconstop|Ninconstop]] break in. She lives near to the store.
+- Stephanie is one of [[Etemor/NPCs/Denise Othwise|Denise Othwise]]'s friends, who was with her the night of the [[Etemor/Organisations/Ninconstop|Ninconstop]] break in. She lives near to the store.
 - [[Sturfast Billowrock]] works at the [[The Sacrifice and the Nymph]]
-- Sergeant [[Peter Othwise]] is the lead guard 
+- Sergeant [[Etemor/NPCs/Peter Othwise]] is the lead guard 
 
 ### What Did We Enjoy?
 - Mystery solving
