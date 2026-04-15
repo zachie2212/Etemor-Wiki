@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 aliases:
 title:
 ---
@@ -9,11 +9,3 @@ Older male Half-Elf, lead member of the [[Etemor/Organisations/City Guard|City G
 
 Daughter: [[Etemor/NPCs/Denise Othwise|Denise Othwise]]
 
-**Stat Blocks**
-Normal guard:
-![[Pasted image 20260327184901.png]]
-
-Sgt Othwise, uses the above
-- minus the Minion ability,
-- plus multi-attack with a Longsword,
-- 20 HP

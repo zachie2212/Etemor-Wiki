@@ -42,7 +42,7 @@ The entire lair is pitch black apart from the Kitchen (1). Filled to the brim wi
 		2. The Kobolds will protect the eggs as their highest priority.
 		3. The Kobolds carry treasure on their person. See [[PRIVATE/Magic Items|Magic Items]]:
 			1. 109gp jewellery
-			2. 1 Tiro: **Reszur**
+			2. Tiro: **Reszur**
 			3. Adeptus: **Magic Missile Spell Scroll**
 			4. Veles: **Periapt of Wound Closure**
 
