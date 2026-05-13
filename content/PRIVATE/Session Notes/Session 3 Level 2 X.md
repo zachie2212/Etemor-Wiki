@@ -12,7 +12,6 @@ Session Date: 2026-04-15
 	- They were attacked by an Ankheg.
 - The cart and lost goods can be found in a dug out pit, the surrounding earth is torn up and rocky (difficult terrain)
 - [[Etemor/NPCs/Korfer Greatmane|Korfer]] and [[Etemor/NPCs/Barker|Barker]] tell the PCs to meet up with their contacts in [[Etemor/Material Plane/Alideus/Curan Kingdom/Darnathmore|Darnathmore]], and give them a token of [[Etemor/Organisations/The Hand|The Hand]] to show to them.
-- 
 
 ## Post Mortem
 ### Events
