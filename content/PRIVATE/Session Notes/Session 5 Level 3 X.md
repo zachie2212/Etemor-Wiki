@@ -6,8 +6,9 @@ Session Date: 2026-05-13
 ## Post Mortem
 ### Events
 - Gunther looses all of his money
-- Horses named: Machina (Draft), Deus (Draft), Ex (Riding)
+- [[The Castle and the Spirit tavern]]
 ### NPCs
 - [[Phebe Jubilee]] the architect of [[General/Lawson Manor|Lawson Manor]].
+- Horses named: Machina (Draft), Deus (Draft), Ex (Riding)
 ### What Did We Enjoy?
 - 
