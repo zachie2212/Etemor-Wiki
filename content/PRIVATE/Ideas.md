@@ -18,3 +18,4 @@ Created On: 2026-03-10
 - [[The Ice King]] is tracking down [[Etemor/Player Characters/Günther Noot Dee|Günther]] 
 **General**
 - False Hydra
+- Mould monster... in da walls!
