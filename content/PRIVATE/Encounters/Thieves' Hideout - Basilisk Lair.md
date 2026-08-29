@@ -5,7 +5,7 @@ Their petrification gaze functions both as a strong defence and as a hunting aid
 ## Quest
 A mated basilisk pair have taken over this thieves' hideout, as they nesting a few babies who require petrified meat to survive. As such, they are highly territorial and defensive.
 
-Since the party decided to infiltrate [[Lawson Manor]] first, this task has already been given to another mercenary group called #todo . They will not fight the party unnecessarily, however they won't allow them to steal the reward or get in their way.
+Since the party decided to infiltrate [[Lawson Manor]] first, this task has already been given to another mercenary group called [[Etemor/Organisations/The Wanderers|The Wanderers]]. They will not fight the party unnecessarily, however they won't allow them to steal the reward or get in their way.
 
 ### Treasure
 - 150gp
@@ -24,6 +24,7 @@ Since the party decided to infiltrate [[Lawson Manor]] first, this task has alre
 | Egg    | Practical      | 1000       |     |                    | 90                   |
 | Gullet | Alchemy        | 65         | 20  | Ruptured on fail   | 2                    |
 | Eye    | Alchemy/Trophy | 5          | 10  | 2d6 poison on fail | 2                    |
+|        |                |            |     |                    |                      |
 
 ### Map
 
