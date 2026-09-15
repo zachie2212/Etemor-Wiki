@@ -11,3 +11,6 @@ Tiefling Abberant Sorcerer
 ## Connections
 - [[Etemor/Organisations/The Wanderers|The Wanderers]]
 
+## Stat Block
+
+![[Adel Bahar.statblockwizard.png]]

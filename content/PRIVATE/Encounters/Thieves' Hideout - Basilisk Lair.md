@@ -24,7 +24,6 @@ Since the party decided to infiltrate [[Lawson Manor]] first, this task has alre
 | Egg    | Practical      | 1000       |     |                    | 90                   |
 | Gullet | Alchemy        | 65         | 20  | Ruptured on fail   | 2                    |
 | Eye    | Alchemy/Trophy | 5          | 10  | 2d6 poison on fail | 2                    |
-|        |                |            |     |                    |                      |
 
 ### Map
 
