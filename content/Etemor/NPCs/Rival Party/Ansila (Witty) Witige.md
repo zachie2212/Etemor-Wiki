@@ -5,7 +5,7 @@ title:
 ---
 Created On: 2026-08-29
 ## Overview
-
+Human Bard
 
 ## Connections
 - [[Etemor/Organisations/The Wanderers|The Wanderers]]

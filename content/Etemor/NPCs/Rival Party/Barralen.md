@@ -5,6 +5,7 @@ title:
 ---
 Created On: 2026-08-29
 ## Overview
+Tiefling Champion Fighter
 
 ## Connections
 - [[Etemor/Organisations/The Wanderers|The Wanderers]]
