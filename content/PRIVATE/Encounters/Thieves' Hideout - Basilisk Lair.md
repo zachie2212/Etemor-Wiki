@@ -6,6 +6,7 @@ Their petrification gaze functions both as a strong defence and as a hunting aid
 A mated basilisk pair have taken over this thieves' hideout, as they nesting a few babies who require petrified meat to survive. As such, they are highly territorial and defensive.
 
 Since the party decided to infiltrate [[Lawson Manor]] first, this task has already been given to another mercenary group called [[Etemor/Organisations/The Wanderers|The Wanderers]]. They will not fight the party unnecessarily, however they won't allow them to steal the reward or get in their way.
+[[The Wanderers]] were sent by a delegation of [[The Hand]] in [[Oldfield]], who had not communicated with the sect of the thieves' guild in [[Darnathmore]], hence why both parties were sent there.
 
 ### Treasure
 - 150gp

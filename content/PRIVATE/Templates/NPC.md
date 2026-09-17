@@ -3,7 +3,16 @@ draft: true
 aliases:
 title:
 ---
-Pronouns: 
+Created On: <% tp.date.now() %>
+
+**Pronouns:** 
+
+**Looks:**
+
+**Voice:**
+
+**Description:**
+
 ## Connections
 - 
 

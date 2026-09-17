@@ -6,10 +6,12 @@ title:
 Created On: <% tp.date.now() %>
 ## Overview
 Session Date: 
+In-Game Date: 
 ## Preparation Notes
 - 
 
 ## Post Mortem
+**Number of In-Game Days passed:** 
 ### Events
 - 
 ### NPCs

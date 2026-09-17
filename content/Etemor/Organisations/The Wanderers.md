@@ -9,10 +9,10 @@ A group of mercenaries in the [[Etemor/Material Plane/Alideus/Curan Kingdom/inde
 They meet the party at [[Etemor/Organisations/The Hand|The Hand]] [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout - Basilisk Lair]].
 
 ### Members
-- [[Etemor/NPCs/Rival Party/Adel Bahar]]
-- [[Etemor/NPCs/Rival Party/Alfie (Strum) Mayfair]]
-- [[Etemor/NPCs/Rival Party/Amarindra Ibrahim]]
-- [[Etemor/NPCs/Rival Party/Ansila (Witty) Witige]]
-- [[Etemor/NPCs/Rival Party/Barralen]]
-- [[Etemor/NPCs/Rival Party/Dura Haguk]]
-- [[Etemor/NPCs/Rival Party/Ella-Rose Mayfair]]
+- [[Etemor/NPCs/Rival Party/Adel Bahar|Adel Bahar]]
+- [[Etemor/NPCs/Rival Party/Alfie (Strum) Mayfair|Alfie (Strum) Mayfair]]
+- [[Etemor/NPCs/Rival Party/Amarindra Ibrahim|Amarindra Ibrahim]]
+- [[Etemor/NPCs/Rival Party/Ansila (Witty) Witige|Ansila (Witty) Witige]]
+- [[Etemor/NPCs/Rival Party/Barralen|Barralen]]
+- [[Etemor/NPCs/Rival Party/Dura Haguk|Dura Haguk]]
+- [[Etemor/NPCs/Rival Party/Ella-Rose Mayfair|Ella-Rose Mayfair]]

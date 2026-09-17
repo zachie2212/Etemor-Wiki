@@ -5,7 +5,7 @@ title:
 ---
 Created On: 2026-04-29
 ## Overview
-Home of [[General/Lord Rory Lawson|Lord Rory Lawson]].
+Home of [[Lord Rory Lawson|Lord Rory Lawson]].
 
 ### Player Map
 

@@ -19,3 +19,4 @@ Created On: 2026-03-10
 **General**
 - False Hydra
 - Mould monster... in da walls!
+- Since the Imp has been following the party since they [[Infiltrate Lawson Manor|infiltrated Lawson Manor]], they would have found the hideout of [[The Hand]] in [[Darnathmore]], and know of their plan to bring down [[Lord Rory Lawson]]. As such, they will be unable to frame the Lord, and he will take them down - perhaps a week after the party completed the infiltration.
