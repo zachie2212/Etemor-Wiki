@@ -6,7 +6,7 @@ title:
 Created On: 2026-08-30
 ## Overview
 Session Date: 2026-09-17
-In-Game Date: 
+In-Game Date: 1491-Eleint-01
 ## Preparation Notes
 - [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout - Basilisk Lair]]
 

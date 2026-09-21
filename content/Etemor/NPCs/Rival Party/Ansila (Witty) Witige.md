@@ -14,7 +14,7 @@ Human Bard
 
 **Description:** While she is a multi-talented musician, she prefers to charm with her words. As such, she only carries a small flute and a harp.
 
-
+bn 
 ## Connections
 - [[Etemor/Organisations/The Wanderers|The Wanderers]]
 

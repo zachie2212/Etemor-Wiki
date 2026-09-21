@@ -16,7 +16,7 @@ Session Date: 2026-08-29
 - They agreed to go investigate the thieves hideout issue
 - They got a loan horse from [[Etemor/Organisations/The Hand|The Hand]] called "Lightning Bolt"
 - Level up to 4!
-- They fought a band of lizardfolk in the forest, west of the [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout]]
+- They fought a band of [[Lizardfolk]] in the forest, west of the [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout]]
 - They ended outside the forest temple ruins of the [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout]]
 ### NPCs
 - 
