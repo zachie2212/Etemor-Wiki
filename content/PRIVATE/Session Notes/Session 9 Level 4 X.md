@@ -12,7 +12,7 @@ In-Game Date: 1491-Eleint-01
 
 
 ## Post Mortem
-**Number of In-Game Days passed:** 
+**Number of In-Game Days passed:** 1/2
 ### Events
 - 
 ### NPCs

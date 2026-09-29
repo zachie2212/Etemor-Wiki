@@ -8,7 +8,7 @@ Created On: 2026-08-29
 **Pronouns:** he/him
 Tiefling Abberant Sorcerer
 
-**Looks:** A pale skinned, bald headed human man, he holds himself in an unsettling way, and always looks like their eyes are in a distant place. 
+**Looks:** A pale skinned, bald headed tiefling man, he holds himself in an unsettling way, and always looks like their eyes are in a distant place. 
 
 **Voice:** Hollow and distant, their sentences always drift off unfinished.
 

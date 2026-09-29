@@ -5,7 +5,7 @@ title:
 ---
 Created On: 2026-09-17
 ## Overview
-Larger farming town west of [[]]
+Larger farming town west of the [[Lantou Wood]]
 
 ## Description
 

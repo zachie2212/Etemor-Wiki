@@ -22,5 +22,5 @@ In the 80 years since its founding, **Brittlefront** has expanded quite a bit, a
 
 ## Organisations
 - [[The Dust Skulls]]
-- [[The Brass Tooth Inn]]
+- [[The Pelican's Head]]
 - [[Etemor/Organisations/Southstone Resource Corporation|Southstone Resource Corporation]]

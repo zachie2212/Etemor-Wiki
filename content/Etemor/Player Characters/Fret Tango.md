@@ -11,7 +11,7 @@ Stefan
 | ------- | ------- | -------- |
 | Human   | Warlock |          |
 ## Connections
-- [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]] - Patron at [[The Brass Tooth Inn]]. Has performed there a few times.
+- [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]] - Patron at [[The Pelican's Head]]. Has performed there a few times.
 - Originally from the Southern desert island [[Sethland]].
 
 ## Art / Inspiration

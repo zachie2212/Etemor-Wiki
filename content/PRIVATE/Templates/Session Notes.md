@@ -5,7 +5,7 @@ title:
 ---
 Created On: <% tp.date.now() %>
 ## Overview
-Session Date: 
+Session Date: <% tp.date.now() %>
 In-Game Date: 
 ## Preparation Notes
 - 

@@ -11,7 +11,7 @@ Written by Sam.
 
 The mine, however, was never Silas’s calling. He lacked the patience for hard labour and the discipline for the long shifts beneath the earth. Instead, he discovered something else he was far better at: talking. Even as a boy, he had a way of convincing people of things—especially authority figures. His bosses often believed him when he claimed his father knew he had missed lessons or shifts, even when that was far from the truth. It was a talent that would grow sharper with time.
 
-The real education of Silas’s life came not from the mines but from the village tavern, [[The Brass Tooth Inn]].
+The real education of Silas’s life came not from the mines but from the village tavern, [[The Pelican's Head]].
 
 For years, Silas spent nearly every evening there. At first he simply observed, sitting quietly in a corner booth with a cheap drink, watching the rhythm of people coming and going. Travellers, labourers, merchants, thieves, soldiers—everyone eventually passed through those doors. Silas listened. He studied how people spoke when they were proud, how their voices changed when they were lying, and how a little alcohol loosened even the tightest lips.
 
