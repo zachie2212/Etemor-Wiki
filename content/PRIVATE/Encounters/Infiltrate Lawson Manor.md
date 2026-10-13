@@ -1,4 +1,4 @@
-[[General/Lawson Manor|Lawson Manor]]
+[[Lawson Manor|Lawson Manor]]
 
 Heist order:
  1. Assembling the Team

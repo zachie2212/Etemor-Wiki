@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 aliases:
 title:
 ---
 Created On: 2026-08-29
 ## Overview
 A group of mercenaries in the [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]].
-They meet the party at [[Etemor/Organisations/The Hand|The Hand]] [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout - Basilisk Lair]].
+They meet the party at [[Etemor/Organisations/The Hand|The Hand]] [[PRIVATE/Encounters/Thieves' Hideout - Basilisk Lair|Thieves' Hideout / Basilisk Lair]].
 
 ### Members
 - [[Etemor/NPCs/Rival Party/Adel Bahar|Adel Bahar]]

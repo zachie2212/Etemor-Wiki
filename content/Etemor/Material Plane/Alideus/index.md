@@ -9,8 +9,8 @@ Created On: 2026-03-07
 [[Continent]] in [[Etemor/index|Etemor]]. 
 
 ## History
-Originally the seat of power of the [[General/Ali'deum Empire|Ali'deum Empire]]. 
+Originally the seat of power of the [[Ali'deum Empire|Ali'deum Empire]]. 
 
 ## [[Nation|Nations]]
 - [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]] - Currently controls most of **Alideus**.
-- [[Etemor/Material Plane/Alideus/North Alideus/index|North Alideus]] - Composed of many individual [[General/Cities|Cities]] States.
+- [[Etemor/Material Plane/Alideus/North Alideus/index|North Alideus]] - Composed of many individual [[Cities|Cities]] States.

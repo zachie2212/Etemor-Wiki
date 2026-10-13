@@ -1,4 +1,4 @@
-[[Etemor/Player Characters/Dionysus Naxo|Dionysus Naxo]] [[General/Dionysus Naxo Backstory|Dionysus Naxo Backstory]]
+[[Etemor/Player Characters/Dionysus Naxo|Dionysus Naxo]] [[Dionysus Naxo Backstory|Dionysus Naxo Backstory]]
 ## Background
 ### Before
 He is a young prince of [[Monolithios]]. Since he was far away from being the heir, he fought in the Great Wars between Celestials and Devils.

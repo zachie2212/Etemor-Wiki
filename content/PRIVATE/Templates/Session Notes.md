@@ -10,6 +10,8 @@ In-Game Date:
 ## Preparation Notes
 - 
 
+## Points of Interest
+- 
 ## Post Mortem
 **Number of In-Game Days passed:** 
 ### Events

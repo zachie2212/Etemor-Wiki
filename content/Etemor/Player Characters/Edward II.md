@@ -11,7 +11,7 @@ Jude
 | ------- | ------- | -------- |
 | Human   | Paladin |          |
 ## Connections
-- Originally from the Kingdom of [[Material Plane/Kivalon|Kivalon]], far to the East of [[Etemor/Material Plane/Alideus/index|Alideus]].
+- Originally from the Kingdom of [[Kivalon|Kivalon]], far to the East of [[Etemor/Material Plane/Alideus/index|Alideus]].
 - One of the sons of the [[House Kivalon]]
 - [[Etemor/Player Characters/Silas Silvertongue|Silas Silvertongue]]. Used to go to his tavern every now and then.
 
