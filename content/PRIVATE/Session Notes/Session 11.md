@@ -3,7 +3,7 @@ draft: true
 aliases:
 title:
 ---
-Created On: 2026-10-14
+1Created On: 2026-10-14
 ## Overview
 Session Date: 2026-10-14
 In-Game Date: 1491-Eleint-02
@@ -16,7 +16,7 @@ In-Game Date: 1491-Eleint-02
 	- Perhaps they will go through [[New Trefoul]]
 		- Can find archaeological work here from [[The Arcanium]]
 - Fey swamp in [[Waboia Morass]] between [[Darnathmore]] and [[The Brittle Gap]]
-
+  
 ## Points of Interest
  - Wizard tower
 - [[New Trefoul]]
@@ -24,10 +24,16 @@ In-Game Date: 1491-Eleint-02
 - [[Waboia Morass]]
 
 ## Post Mortem
-**Number of In-Game Days passed:** 
+**Number of In-Game Days passed:** 5
 ### Events
-- 
+- Discovered the massacre of [[The Hand]] at [[Darnathmore]]
+	- Captured the Imp
+	- Learnt a bit more about 
+- 5400 gp in thieves hideout
+- [[Greenstaff Tower]]
+	- They negotiated 350gp each from [[Rollin Bindlewoll|Rollin]] for exploring the [[Greenstaff Tower]]
+	- Ended as the fight with the animated items in The Depository began
 ### NPCs
-- 
+- [[Rollin Bindlewoll]]
 ### What Did We Enjoy?
-- 
+- Torturing the Imp
