@@ -16,7 +16,7 @@ In-Game Date: 1491-Eleint-02
 	- Perhaps they will go through [[New Trefoul]]
 		- Can find archaeological work here from [[The Arcanium]]
 - Fey swamp in [[Waboia Morass]] between [[Darnathmore]] and [[The Brittle Gap]]
-  
+ 
 ## Points of Interest
  - Wizard tower
 - [[New Trefoul]]
@@ -31,7 +31,7 @@ In-Game Date: 1491-Eleint-02
 	- Learnt a bit more about 
 - 5400 gp in thieves hideout
 - [[Greenstaff Tower]]
-	- They negotiated 350gp each from [[Rollin Bindlewoll|Rollin]] for exploring the [[Greenstaff Tower]]
+	- They negotiated 350gp each from [[Rollin Bindlewoll]] for exploring the [[Greenstaff Tower]]
 	- Ended as the fight with the animated items in The Depository began
 ### NPCs
 - [[Rollin Bindlewoll]]
