@@ -29,7 +29,7 @@ Animated objects:
 
 - 4x Needle Blight
   ![[Pasted image 20261027172547.png|360]]
-  
+    
 - 6x Twig Blight
   ![[Pasted image 20261027172627.png|368]]
   
