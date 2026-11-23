@@ -6,9 +6,9 @@ title:
 Created On: 2026-11-11
 ## Overview
 Session Date: 2026
-In-Game Date: 
+In-Game Date: 1491-Eleint-08
 ## Preparation Notes
-- [[Isongau|ISONGAU]]
+- [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau|ISONGAU]]
 - Where does [[Rollin Bindlewoll]] teleport them to?
 	- 
 

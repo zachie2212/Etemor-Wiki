@@ -12,7 +12,7 @@ Halfling Thief Rogue
 
 **Voice:** Shy and quiet, always keeping their attention on the door.
 
-**Description:** This rogue grew up in the streets of [[Isongau]], with nothing to their name, having to steal for a living. For them, theft has never been something enjoyable, but a necessity to live.
+**Description:** This rogue grew up in the streets of [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau]], with nothing to their name, having to steal for a living. For them, theft has never been something enjoyable, but a necessity to live.
 
 ## Connections
 - [[Etemor/Organisations/The Wanderers|The Wanderers]]

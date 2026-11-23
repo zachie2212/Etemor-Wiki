@@ -12,13 +12,13 @@ In-Game Date: 1491-Eleint-01
 - Still with [[The Wanderers]]
 - Will chat with [[Dura Haguk]] and [[Adel Bahar]]
 - **What info does [[Adel Bahar|Adel]] know about their backstory that [[Macht]] doesn't?**
-	- He has heard of another sorcerous Tiefling who lives on the streets of [[Isongau]]
+	- He has heard of another sorcerous Tiefling who lives on the streets of [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau]]
 	- He also has never met another person like himself
 	- He hides his appearance because once someone attacked him and seemed to know something about his crystals.
 - **What info does [[Dura Haguk|Dura]] know about their history that [[Edward II|Ed]] doesn't?**
 	- [[House Fidel]] has taken full power over the fallen kingdom of [[Kivalon]], however the citizens are suffering more under their rule
 	- He is investigating how to bring down [[House Fidel]], and discovered that the Fidel [[The Tarnished Council]] head Mage, [[Court Mage Ivan Severa]], was in contact with a high mage in the [[Etemor/Material Plane/Alideus/Curan Kingdom/index|Curan Kingdom]]
-		- This unknown mage likely resides in [[Caerleon]], or frequents [[Isongau]].
+		- This unknown mage likely resides in [[Caerleon]], or frequents [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau]].
 - If anyone casts Detect Thoughts (including Adel), they will notice the presence of the invisible [[Imp]], who will retreat if caught.
 - [[Silas Silvertongue|Silas]] flashback fight! - [[Cassian Silvertongue]].
 

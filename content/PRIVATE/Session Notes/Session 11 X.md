@@ -11,7 +11,7 @@ In-Game Date: 1491-Eleint-02
 - Return to [[Darnathmore]] in 1 day
 	- [[The Hand]] in [[Darnathmore]] will be arrested by [[Lord Rory Lawson]]
 - Will they try to break [[Barker]] out of prison?
-- Will they go to [[Isongau]]?
+- Will they go to [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau]]?
 	- Follow road (15 days) vs direct route through forest (11 days) to [[The Brittle Gap]]?
 	- Perhaps they will go through [[New Trefoul]]
 		- Can find archaeological work here from [[The Arcanium]]

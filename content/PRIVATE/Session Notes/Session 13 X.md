@@ -17,7 +17,7 @@ In-Game Date: 1491-Eleint-07
 ### Events
 - Finished [[Greenstaff Tower]]
 - They have the staff and spellbook
-- They convinced Rollin to teleport them to [[Isongau]]
+- They convinced Rollin to teleport them to [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau]]
 - They levelled up to 5
 ### NPCs
 - [[Rollin Bindlewoll]]
