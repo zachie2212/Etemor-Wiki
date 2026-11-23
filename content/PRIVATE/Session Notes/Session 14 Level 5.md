@@ -10,7 +10,7 @@ In-Game Date: 1491-Eleint-08
 ## Preparation Notes
 - [[Etemor/Material Plane/Alideus/Curan Kingdom/Isongau|ISONGAU]]
 - Where does [[Rollin Bindlewoll]] teleport them to?
-	- 
+	- [[The Crown Athenaeum]]
 
 ## Points of Interest
 - 
