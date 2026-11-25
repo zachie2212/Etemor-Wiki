@@ -15,7 +15,6 @@ Wants: more people to join the order, and more people to resurrect
 ### [[The Red Rise]]
 Wants: to preserve the natural order of life and death
 - suspicious of the Temple of Renewal, and wants to stop it, as "something isn't right".
-- 
 ### [[Bloom House]]
 Wants: many people to take the retreat, so that there are more components for their ritual
 - the same organisation who experimented on [[Macht]]

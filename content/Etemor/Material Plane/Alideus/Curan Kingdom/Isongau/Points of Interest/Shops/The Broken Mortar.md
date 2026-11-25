@@ -5,7 +5,7 @@ Shopkeeper: Gimo Stoneanvil (Male Dwarf, Jailer)
 
 ## Inventory
 
-- Smoke Bomb (10 gp): Creates a cloud of thick smoke in a 10-foot radius.
+- ~~Smoke Bomb (10 gp): Creates a cloud of thick smoke in a 10-foot radius.~~
 - Acid (vial) (25 gp): A corrosive liquid that deals 2d6 acid damage on contact.
 - Night-Eye Drops (40 gp): Eye drops that grant dim-light darkvision for 1 hour.
 - Alchemist's Fire (50 gp): A sticky adhesive compound that ignites when exposed to air.

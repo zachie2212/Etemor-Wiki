@@ -17,7 +17,7 @@ The city has four main districts:
 - **The Docks**. The eastern semi-circle, the poorer district, filled with both trade, work-yards for resources brought from the mainland, and common markets.
 - **The Deus**. The western inner-circle, surrounding [[Redmont Citadel]], the castle home of the King, and filled with sites of high society and the great temples of the city. Currently very busy due to the influx of patrons of [[The Temple of Renewal]].
 - **The Dowry**. A central hub of trade, most merchants are found here, and there are many places for temporary markets.
-- **The Disc**. The circle surrounding The Deus and The Dowry, primarily middle-class residential. 
+- **The Disc**. The circle surrounding The Deus and The Dowry, primarily dense middle-class residential. 
 
 ## History
 Once a powerful city in the [[Ali'deum Empire|Ali'deum Empire]], **Isongau** is filled with remnants of the fallen civilisation. Most notably, the gigantic, 100 meter stone statues found throughout the city, which are believed to have once been magically animated constructs created to defend the city. However now they are just overgrown landmarks repurposed as high locations for housing and businesses.
